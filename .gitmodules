@@ -102,3 +102,8 @@
 	path = wms
 	url = https://github.com/OCA/wms.git
 	branch = 14.0
+
+[submodule "deepshikhaksolves/erp_pm"]
+	path = deepshikhaksolves/erp_pm
+	url = git@github.com:deepshikhaksolves/erp_pm.git
+	branch = dev
