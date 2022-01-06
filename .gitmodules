@@ -107,3 +107,8 @@
 	path = deepshikhaksolves/erp_pm
 	url = git@github.com:deepshikhaksolves/erp_pm.git
 	branch = dev
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
